@@ -1,0 +1,23 @@
+html {
+font-family: Tahoma;
+width: 360px;
+}
+
+body {
+}
+
+a {
+color: white;
+}
+
+ul {
+background: gray;
+}
+
+li {
+display:inline;
+}
+
+h2 {
+color: blue;
+}
